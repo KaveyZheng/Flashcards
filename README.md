@@ -1,4 +1,4 @@
-## Lab 3
+# Lab 3
 
 ### App Description
 - Flashcards can be edited, deleted, and browsed through
