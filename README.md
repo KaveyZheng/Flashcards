@@ -17,10 +17,7 @@
 - [ ] User can store multiple choice questions
 
 
-
-
-
-## Lab 2
+# Lab 2
 
 ### App Description
 - Flashcard app segues between flashcard and creation screens
@@ -41,10 +38,7 @@
 - [ ] User can add multiple choice answers in the creation screen
 
 
-
-
-
-## Lab 1
+# Lab 1
 
 ### App Description
 - Flashcard app swaps between question and answer state after reading user inputted tap on question label using tap gesture recognizer
