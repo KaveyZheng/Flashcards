@@ -68,8 +68,6 @@ class ViewController: UIViewController {
     
     func flipFlashcard() {
         if (questionLabel.isHidden == false) {
-            //questionLabel.isHidden = true
-            
             // Animate flashcard flip
             UIView.transition(with: card, duration: 0.35, options: .transitionFlipFromRight) {
                 self.questionLabel.isHidden = true
