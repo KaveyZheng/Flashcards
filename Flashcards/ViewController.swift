@@ -218,8 +218,7 @@ class ViewController: UIViewController {
         let alert = UIAlertController(title: "Delete Flashcard", message: "Are you sure you want to delete it?", preferredStyle: .actionSheet)
         
         // Create delete action
-        let deleteAction = UIAlertAction(title: "Delete", style: .destructive) { action in
-            self.deleteCurrentFlashcard()
+        let deleteAction = UIAlertAction(title: "Delete", style: .destructive) { action in self.deleteCurrentFlashcard()
         }
         // Create cancel action
         let cancelAction = UIAlertAction(title: "Cancel", style: .cancel)
