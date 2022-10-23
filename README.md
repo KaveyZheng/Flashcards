@@ -4,7 +4,7 @@
 - Flashcard app has opening, flipping, and changing animations
 
 ### App Walk-though
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="https://user-images.githubusercontent.com/109322859/197370928-ebce3ac4-8b2e-4f4d-a5e1-4de6460cfc86.gif" width=200><br>
 
 ### Required
 - [x] User should see the app icon 
