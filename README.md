@@ -1,7 +1,7 @@
 # Lab 4
 
 ### App Description
-- Flashcard app has opening, flipping, and changing animations
+- Flashcard app has opening, flipping, and changing card animations
 
 ### App Walk-though
 <img src="https://user-images.githubusercontent.com/109322859/197370928-ebce3ac4-8b2e-4f4d-a5e1-4de6460cfc86.gif" width=200><br>
