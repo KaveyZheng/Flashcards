@@ -132,8 +132,7 @@ class ViewController: UIViewController {
         // Increase current index
         currentIdx += 1
         
-        // Update labels
-        // updateLabels()
+        // Update labels updateLabels()
         
         // Update buttons
         updateNextPrevButtons()
