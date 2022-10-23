@@ -13,7 +13,6 @@ struct Flashcard {
 }
 
 class ViewController: UIViewController {
-
     @IBOutlet weak var card: UIView!
     @IBOutlet weak var answerLabel: UILabel!
     @IBOutlet weak var questionLabel: UILabel!
